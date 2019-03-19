@@ -1,2 +1,2 @@
 # fastai
-Running fastai notebooks from google colaboratory.
+Inspired by `fastai`
